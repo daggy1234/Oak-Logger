@@ -7,7 +7,7 @@ A simple and opinionated logging middleware for Deno oak.
 
 ```ts
 
-import logger from "https://deno.land/x/oak_logger/logger.ts";
+import logger from "https://deno.land/x/oak_logger/mod.ts";
 
 //Register your Oak App
 
